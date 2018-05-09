@@ -11,3 +11,7 @@ test
 2.8 oefening
 
 test
+```r 
+df<-as.data.frame(tes)
+
+```
