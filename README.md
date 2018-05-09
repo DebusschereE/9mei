@@ -18,3 +18,4 @@ df<-as.data.frame(tes)
 ```
 
 commit
+aanpassingen voor pull request 
