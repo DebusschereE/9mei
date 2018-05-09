@@ -11,6 +11,7 @@ test
 ### 2.8 oefening
 
 titeltjes
+titeltjess
 ```r 
 df<-as.data.frame(tes)
 
