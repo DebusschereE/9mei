@@ -10,7 +10,7 @@ test
 
 ### 2.8 oefening
 
-titeltje
+titeltjes
 ```r 
 df<-as.data.frame(tes)
 
