@@ -10,7 +10,7 @@ test
 
 ### 2.8 oefening
 
-test
+testjes
 ```r 
 df<-as.data.frame(tes)
 
